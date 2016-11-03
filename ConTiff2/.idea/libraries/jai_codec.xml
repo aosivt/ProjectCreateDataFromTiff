@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jai_codec">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/share/arch/аспирантура/lib/jai/jai_codec.jar!/" />
+      <root url="jar://$USER_HOME$/share/arch/аспирантура/lib/jai/jai_core.jar!/" />
+      <root url="jar://$USER_HOME$/share/arch/аспирантура/lib/jai/jai_imageio.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
